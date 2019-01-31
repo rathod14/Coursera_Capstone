@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Applied Data Science Capstone Project 
+# Applied Data Science Capstone Project 
+Segmenting and Clustering Neighourhoods in Toronto, Canada
